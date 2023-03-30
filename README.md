@@ -3,7 +3,7 @@
 ### Web And Mobile developer 
 
 
-![Faustfizz's github stats](https://github-readme-stats.vercel.app/api?username=faustfizz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide=contribs)
+![Faustfizz's github stats](https://github-readme-stats.vercel.app/api?username=faustfizz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=faustfizz&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faustfizz&theme=transparent)
 
